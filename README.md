@@ -1,6 +1,19 @@
+
+
+# Link DEMO : https://zimedia.netlify.app/
+
+# Link API Documentation : https://documenter.getpostman.com/view/17715552/VUqmxLGA
+
+
+# Link API github : https://github.com/jksofm/ZiMediaAPI
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
